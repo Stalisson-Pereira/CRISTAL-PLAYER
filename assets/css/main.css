@@ -1840,7 +1840,7 @@ input, select, textarea {
 
 
 	.elemento-teste {
-		background-position: center; 
+		position: relative; 
 		text-align: center;
    		width: 200px;
 		height: 40px;
