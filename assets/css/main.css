@@ -1762,13 +1762,15 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 50px;
 			height: 50px;
-			background: rgba(255, 255, 255, 0.103);
+			background: #fff;
+			border-radius: 50%;
 		}
 
 			.image.avatar48 img {
 				width: 50px;
 				height: 50px;
 			}
+	
 
 		.image.fit {
 			display: block;
