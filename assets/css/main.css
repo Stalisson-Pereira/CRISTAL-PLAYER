@@ -2120,6 +2120,8 @@ input, select, textarea {
 	}
 
 		#logo h1 {
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-shadow: 3px 3px 2px #000;
 			position: relative;
 			color: #fff;
 			font-weight: 600;
